@@ -24,7 +24,7 @@ Podcastr é um sistema web desenvolvido para o consumo de podcasts, que podem se
 - yarn dev ou npm run dev // executar o projeto
 - Abra no navegador [https://localhost:3000](https://localhost:3000)
 
-## Build
+## Build:
 
 - yarn server ou npm run server // deixar o server rodando
   
@@ -32,4 +32,4 @@ Podcastr é um sistema web desenvolvido para o consumo de podcasts, que podem se
   
 - yarn start ou npm run start // executar a build de produção
 
-## 💻 Interface
+## 💻 Interface:

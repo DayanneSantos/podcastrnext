@@ -5,11 +5,10 @@
 1. git clone https://github.com/DayanneViana/podcastrnext.git
 2. yarn ou npm install
 
-## Visualizar projeto:
+## Em outra aba execute o seguinte comando:
 - yarn server ou npm run server // executar o servidor
   
-## Em outra aba execute o seguinte comando:
-  
+## Visualizar projeto:
 - yarn dev ou npm run dev // executar o projeto
 - Abra no navegador [https://localhost:3000](https://localhost:3000)
 

@@ -12,7 +12,6 @@ Podcastr é um sistema web desenvolvido para o consumo de podcasts, que podem se
 - Css
 - HTML
 - Git
-- 
 
 ## ⬇️ Baixar o projeto:
 1. git clone https://github.com/DayanneViana/podcastrnext.git

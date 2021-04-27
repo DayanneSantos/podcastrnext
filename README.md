@@ -13,6 +13,11 @@ Podcastr é um sistema web desenvolvido para o consumo de podcasts, que podem se
 - HTML
 - Git
 
+## Atualizações futuras:
+- Adição da opção de tema Dark
+- Responsividade
+- App Desktop ou projeto PWA
+
 ## ⬇️ Baixar o projeto:
 1. git clone https://github.com/DayanneViana/podcastrnext.git
 2. yarn ou npm install
@@ -39,5 +44,4 @@ Lista de podcasts + Player
 
 ![interface2](https://user-images.githubusercontent.com/69702472/116292138-bda55380-a76b-11eb-9941-5c4ca2d57a42.png)
 
-Player
 ![interface3](https://user-images.githubusercontent.com/69702472/116292179-c9911580-a76b-11eb-9fb4-3b459d975da7.png)

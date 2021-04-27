@@ -33,3 +33,11 @@ Podcastr é um sistema web desenvolvido para o consumo de podcasts, que podem se
 - yarn start ou npm run start // executar a build de produção
 
 ## 💻 Interface:
+
+Lista de podcasts + Player
+![interface1](https://user-images.githubusercontent.com/69702472/116289140-9a2cd980-a768-11eb-8525-823a09054b8d.png)
+
+![interface2](https://user-images.githubusercontent.com/69702472/116292138-bda55380-a76b-11eb-9941-5c4ca2d57a42.png)
+
+Player
+![interface3](https://user-images.githubusercontent.com/69702472/116292179-c9911580-a76b-11eb-9fb4-3b459d975da7.png)

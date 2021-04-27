@@ -1,9 +1,9 @@
 # Podcastr
 Projeto criado durante o NLW5, evento realizado pela Rocketseat entre os dias 19 e 23 de Abril.
 
-Comandos
+# Comandos
 
-Baixar o projeto:
+# Baixar o projeto:
   1. git clone https://github.com/DayanneViana/podcastrnext.git
 
   cd podcastr
@@ -18,7 +18,7 @@ Baixar o projeto:
   
   Abra no navegador [https://localhost:3000](https://localhost:3000)
 
-Build
+# Build
 
   yarn server ou npm run server // deixar o server rodando
   
@@ -26,4 +26,4 @@ Build
   
   yarn start ou npm run start // executar a build de produção
 
-Interface
+# Interface
